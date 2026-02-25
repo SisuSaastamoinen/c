@@ -1,0 +1,5 @@
+C:\Users\sasti\source\repos\projekt1\projekt5\projekt5\obj\Debug\projekt5.csproj.AssemblyReference.cache
+C:\Users\sasti\source\repos\projekt1\projekt5\projekt5\obj\Debug\projekt5.LukujenJarjestys.resources
+C:\Users\sasti\source\repos\projekt1\projekt5\projekt5\obj\Debug\projekt5.Properties.Resources.resources
+C:\Users\sasti\source\repos\projekt1\projekt5\projekt5\obj\Debug\projekt5.csproj.GenerateResource.cache
+C:\Users\sasti\source\repos\projekt1\projekt5\projekt5\obj\Debug\projekt5.csproj.CoreCompileInputs.cache

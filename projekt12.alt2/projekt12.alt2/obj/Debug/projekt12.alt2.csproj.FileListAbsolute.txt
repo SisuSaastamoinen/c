@@ -1,0 +1,10 @@
+C:\Users\sasti\source\repos\projekt1\projekt12.alt2\projekt12.alt2\obj\Debug\projekt12.alt2.csproj.AssemblyReference.cache
+C:\Users\sasti\source\repos\projekt1\projekt12.alt2\projekt12.alt2\obj\Debug\projekt12.alt2.Form1.resources
+C:\Users\sasti\source\repos\projekt1\projekt12.alt2\projekt12.alt2\obj\Debug\projekt12.alt2.Properties.Resources.resources
+C:\Users\sasti\source\repos\projekt1\projekt12.alt2\projekt12.alt2\obj\Debug\projekt12.alt2.csproj.GenerateResource.cache
+C:\Users\sasti\source\repos\projekt1\projekt12.alt2\projekt12.alt2\obj\Debug\projekt12.alt2.csproj.CoreCompileInputs.cache
+C:\Users\sasti\source\repos\projekt1\projekt12.alt2\projekt12.alt2\bin\Debug\projekt12.alt2.exe.config
+C:\Users\sasti\source\repos\projekt1\projekt12.alt2\projekt12.alt2\bin\Debug\projekt12.alt2.exe
+C:\Users\sasti\source\repos\projekt1\projekt12.alt2\projekt12.alt2\bin\Debug\projekt12.alt2.pdb
+C:\Users\sasti\source\repos\projekt1\projekt12.alt2\projekt12.alt2\obj\Debug\projekt12.alt2.exe
+C:\Users\sasti\source\repos\projekt1\projekt12.alt2\projekt12.alt2\obj\Debug\projekt12.alt2.pdb

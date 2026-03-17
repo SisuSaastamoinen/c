@@ -1,0 +1,10 @@
+C:\Users\sasti\source\repos\projekt1\projekt13\projekt13\bin\Debug\projekt13.exe.config
+C:\Users\sasti\source\repos\projekt1\projekt13\projekt13\bin\Debug\projekt13.exe
+C:\Users\sasti\source\repos\projekt1\projekt13\projekt13\bin\Debug\projekt13.pdb
+C:\Users\sasti\source\repos\projekt1\projekt13\projekt13\obj\Debug\projekt13.csproj.AssemblyReference.cache
+C:\Users\sasti\source\repos\projekt1\projekt13\projekt13\obj\Debug\projekt13.Form1.resources
+C:\Users\sasti\source\repos\projekt1\projekt13\projekt13\obj\Debug\projekt13.Properties.Resources.resources
+C:\Users\sasti\source\repos\projekt1\projekt13\projekt13\obj\Debug\projekt13.csproj.GenerateResource.cache
+C:\Users\sasti\source\repos\projekt1\projekt13\projekt13\obj\Debug\projekt13.csproj.CoreCompileInputs.cache
+C:\Users\sasti\source\repos\projekt1\projekt13\projekt13\obj\Debug\projekt13.exe
+C:\Users\sasti\source\repos\projekt1\projekt13\projekt13\obj\Debug\projekt13.pdb

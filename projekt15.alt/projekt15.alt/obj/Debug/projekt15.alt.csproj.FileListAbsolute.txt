@@ -1,0 +1,10 @@
+C:\Users\sasti\source\repos\projekt1\projekt15.alt\projekt15.alt\bin\Debug\projekt15.alt.exe.config
+C:\Users\sasti\source\repos\projekt1\projekt15.alt\projekt15.alt\bin\Debug\projekt15.alt.exe
+C:\Users\sasti\source\repos\projekt1\projekt15.alt\projekt15.alt\bin\Debug\projekt15.alt.pdb
+C:\Users\sasti\source\repos\projekt1\projekt15.alt\projekt15.alt\obj\Debug\projekt15.alt.csproj.AssemblyReference.cache
+C:\Users\sasti\source\repos\projekt1\projekt15.alt\projekt15.alt\obj\Debug\projekt15.alt.Form1.resources
+C:\Users\sasti\source\repos\projekt1\projekt15.alt\projekt15.alt\obj\Debug\projekt15.alt.Properties.Resources.resources
+C:\Users\sasti\source\repos\projekt1\projekt15.alt\projekt15.alt\obj\Debug\projekt15.alt.csproj.GenerateResource.cache
+C:\Users\sasti\source\repos\projekt1\projekt15.alt\projekt15.alt\obj\Debug\projekt15.alt.csproj.CoreCompileInputs.cache
+C:\Users\sasti\source\repos\projekt1\projekt15.alt\projekt15.alt\obj\Debug\projekt15.alt.exe
+C:\Users\sasti\source\repos\projekt1\projekt15.alt\projekt15.alt\obj\Debug\projekt15.alt.pdb

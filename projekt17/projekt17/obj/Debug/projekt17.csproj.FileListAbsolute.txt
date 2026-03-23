@@ -1,0 +1,10 @@
+C:\Users\sasti\source\repos\projekt1\projekt17\projekt17\bin\Debug\projekt17.exe.config
+C:\Users\sasti\source\repos\projekt1\projekt17\projekt17\bin\Debug\projekt17.exe
+C:\Users\sasti\source\repos\projekt1\projekt17\projekt17\bin\Debug\projekt17.pdb
+C:\Users\sasti\source\repos\projekt1\projekt17\projekt17\obj\Debug\projekt17.csproj.AssemblyReference.cache
+C:\Users\sasti\source\repos\projekt1\projekt17\projekt17\obj\Debug\projekt17.Form1.resources
+C:\Users\sasti\source\repos\projekt1\projekt17\projekt17\obj\Debug\projekt17.Properties.Resources.resources
+C:\Users\sasti\source\repos\projekt1\projekt17\projekt17\obj\Debug\projekt17.csproj.GenerateResource.cache
+C:\Users\sasti\source\repos\projekt1\projekt17\projekt17\obj\Debug\projekt17.csproj.CoreCompileInputs.cache
+C:\Users\sasti\source\repos\projekt1\projekt17\projekt17\obj\Debug\projekt17.exe
+C:\Users\sasti\source\repos\projekt1\projekt17\projekt17\obj\Debug\projekt17.pdb

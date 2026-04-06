@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sasti\\source\\repos\\projekt1\\projekt.18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33BF2107-D314-4AE7-8846-0E6E9A479BAD}|projekt.18\\projekt.18.csproj|c:\\users\\sasti\\source\\repos\\projekt1\\projekt.18\\projekt.18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BF2107-D314-4AE7-8846-0E6E9A479BAD}|projekt.18\\projekt.18.csproj|solutionrelative:projekt.18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BF2107-D314-4AE7-8846-0E6E9A479BAD}|projekt.18\\projekt.18.csproj|c:\\users\\sasti\\source\\repos\\projekt1\\projekt.18\\projekt.18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33BF2107-D314-4AE7-8846-0E6E9A479BAD}|projekt.18\\projekt.18.csproj|solutionrelative:projekt.18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sasti\\source\\repos\\projekt1\\projekt.18\\projekt.18\\Form1.cs",
+              "RelativeDocumentMoniker": "projekt.18\\Form1.cs",
+              "ToolTip": "C:\\Users\\sasti\\source\\repos\\projekt1\\projekt.18\\projekt.18\\Form1.cs",
+              "RelativeToolTip": "projekt.18\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:11:13.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sasti\\source\\repos\\projekt1\\projekt.18\\projekt.18\\Form1.cs",
+              "RelativeDocumentMoniker": "projekt.18\\Form1.cs",
+              "ToolTip": "C:\\Users\\sasti\\source\\repos\\projekt1\\projekt.18\\projekt.18\\Form1.cs [Design]",
+              "RelativeToolTip": "projekt.18\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:07:57.592Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
